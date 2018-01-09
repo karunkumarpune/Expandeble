@@ -1,0 +1,47 @@
+{
+  "Do you have any serious health conditions or disability?": [
+    {
+      "name": "YEs"
+    },
+    {
+      "name": "No",
+      
+    }
+  ],
+  "Highest educational credential as equivalent to Canadian studies?": [
+    {
+      "name": "Doctoral Degree"
+    },
+    {
+      "name": "Master Degree",
+      
+    },
+    {
+      "name": "3 year post secondry credentials"
+    },
+    {
+      "name": "School school credential",
+      
+    },
+    {
+      "name": "None of the above",
+      
+    }
+  ],
+  "Select your Occupation": [
+    {
+      "name": "Computer Engineer"
+    },
+    {
+      "name": "Civil Engineer",
+      
+    },
+    {
+      "name": "Dentist"
+    },
+    {
+      "name": "Electrician",
+      
+    }
+  ]
+}
