@@ -1,10 +1,10 @@
 {
   "Do you have any serious health conditions or disability?": [
     {
-      "name": "YEs"
+      "name": "Yes"
     },
     {
-      "name": "No",
+      "name": "No"
       
     }
   ],
@@ -13,18 +13,18 @@
       "name": "Doctoral Degree"
     },
     {
-      "name": "Master Degree",
+      "name": "Master Degree"
       
     },
     {
       "name": "3 year post secondry credentials"
     },
     {
-      "name": "School school credential",
+      "name": "School school credential"
       
     },
     {
-      "name": "None of the above",
+      "name": "None of the above"
       
     }
   ],
@@ -33,15 +33,14 @@
       "name": "Computer Engineer"
     },
     {
-      "name": "Civil Engineer",
+      "name": "Civil Engineer"
       
     },
     {
       "name": "Dentist"
     },
     {
-      "name": "Electrician",
-      
+      "name": "Electrician"
     }
   ]
 }
