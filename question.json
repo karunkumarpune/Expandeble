@@ -15,17 +15,6 @@
     {
       "name": "Master Degree"
       
-    },
-    {
-      "name": "3 year post secondry credentials"
-    },
-    {
-      "name": "School school credential"
-      
-    },
-    {
-      "name": "None of the above"
-      
     }
   ],
   "Select your Occupation": [
@@ -35,12 +24,6 @@
     {
       "name": "Civil Engineer"
       
-    },
-    {
-      "name": "Dentist"
-    },
-    {
-      "name": "Electrician"
     }
   ]
 }
