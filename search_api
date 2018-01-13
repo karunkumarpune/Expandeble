@@ -1,36 +1,29 @@
 {
-  "status": 200,
-  "response": {
-    "items": [
-      {
-        "id": 0,
-        "name": "karun ",
-        "lastName": "kumar",
-        "age": 20,
-        "phoneNumbers": [
-          "9431410921",
-          "9599834735",
-          "8920828585"
-        ]
-      },
-      {
-        "id": 1,
-        "name": "Ramesh",
-        "lastName": "Singh",
-        "age": 22,
-        "phoneNumbers": [
-          "884558558"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "kaju",
-        "lastName": "singh",
-        "age": 25,
-        "phoneNumbers": [
-          "965659555"
-        ]
-      }
-    ]
-  }
+  "id": 0,
+  "name": "karun ",
+  "lastName": "kumar",
+  "age": 20,
+  "phoneNumbers": [
+    "9431410921",
+    "9599834735",
+    "8920828585"
+  ]
+},
+{
+  "id": 1,
+  "name": "Ramesh",
+  "lastName": "Singh",
+  "age": 22,
+  "phoneNumbers": [
+    "884558558"
+  ]
+},
+{
+  "id": 2,
+  "name": "kaju",
+  "lastName": "singh",
+  "age": 25,
+  "phoneNumbers": [
+    "965659555"
+  ]
 }
