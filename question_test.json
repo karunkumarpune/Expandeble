@@ -4,7 +4,7 @@
       "question_title": "Do you have any serious health conditions or disability?",
       "answer": [
         {
-          "option": "yes"
+          "option": "Yes"
         },
         {
           "option": "No"
